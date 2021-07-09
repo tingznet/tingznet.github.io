@@ -1,6 +1,6 @@
 .u-section-1 {
-  background-image: url("images/rtyy-min.jpg");
-  background-position: 50% 33.98%;
+  background-image: url("images/rtyy-minLOW.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -199,7 +199,7 @@
     margin-right: 6px;
   }
 }.u-section-3 {
-  background-image: url("images/antiyeing.png");
+  background-image: url("images/antiyeinglow.jpg");
   background-position: 50% 50%;
 }
 
@@ -254,7 +254,7 @@
 .u-section-4 .u-image-1 {
   min-height: 475px;
   pointer-events: auto;
-  background-image: url("images/sensrler.png");
+  background-image: url("images/sensrlerlow.jpg");
   background-position: 50% 50%;
 }
 
@@ -414,7 +414,8 @@
 
 .u-section-5 .u-image-1 {
   min-height: 669px;
-  background-image: url("images/DJI_0062-1024x5752.jpg");
+  background-image: url("images/DJI_0062-low.jpg");
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
