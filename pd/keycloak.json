@@ -1,6 +1,6 @@
 {
   "realm" : "TingzMaster",
-  "auth-server-url" : "/auth",
+  "auth-server-url" : "https://login.tingz.net/auth/realms/TingzMaster/protocol/openid-connect/auth",
   "ssl-required" : "external",
   "resource" : "js-console",
   "public-client" : true
